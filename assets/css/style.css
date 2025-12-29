@@ -211,7 +211,7 @@ nav a {
   }
 
   .hero-content h1 {
-    font-size: 20px;
+    font-size: 36px;
   }
 }
 
@@ -758,5 +758,6 @@ nav a:hover {
     animation: none;
   }
 }
+
 
 
