@@ -98,6 +98,7 @@ nav a {
 }
 
 .btn-primary {
+  margin-top:10px;
   background: white;
   color: #5b21b6;
   padding: 14px 32px;
@@ -758,6 +759,7 @@ nav a:hover {
     animation: none;
   }
 }
+
 
 
 
